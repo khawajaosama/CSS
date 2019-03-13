@@ -1,0 +1,21 @@
+#header {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+/* jddhhdh */
+#header h1{
+    font-size: 32px;
+    color: limegreen;
+
+}
+
+#header p{
+    font-size: 20px;
+    color: red
+}
+
+p{
+    font-size: 12px;
+    color: blue
+}
