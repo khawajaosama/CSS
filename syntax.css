@@ -1,10 +1,10 @@
 #header {
-    position: absolute;
+    /* position: absolute; */
     top: 0;
     left: 0;
 }
 
-#header h1{
+h1{
     font-size: 32px;
     color: limegreen;
 
@@ -18,4 +18,18 @@
 p{
     font-size: 12px;
     color: blue
+}
+
+a{
+    color: blue;
+    font-size: 20px;
+}
+
+span{
+        text-transform: uppercase;  
+}
+
+div{
+    background-color: grey;
+    width: 100px;
 }
